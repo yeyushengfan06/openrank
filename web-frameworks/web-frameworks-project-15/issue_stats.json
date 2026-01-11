@@ -1,0 +1,9 @@
+{
+  "avg_resolution_time": 5,
+  "close_rate": 0.8740816125089125,
+  "distribution": {
+    "<1day": 81,
+    "1-7days": 34,
+    ">30days": 8
+  }
+}

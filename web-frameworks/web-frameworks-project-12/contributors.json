@@ -1,0 +1,32 @@
+[
+  {
+    "name": "dev-web-frameworks-0",
+    "commits": 30,
+    "issues_active": 5,
+    "response_speed": 32
+  },
+  {
+    "name": "dev-web-frameworks-1",
+    "commits": 13,
+    "issues_active": 11,
+    "response_speed": 62
+  },
+  {
+    "name": "dev-web-frameworks-2",
+    "commits": 5,
+    "issues_active": 19,
+    "response_speed": 71
+  },
+  {
+    "name": "dev-web-frameworks-3",
+    "commits": 23,
+    "issues_active": 15,
+    "response_speed": 61
+  },
+  {
+    "name": "dev-web-frameworks-4",
+    "commits": 31,
+    "issues_active": 3,
+    "response_speed": 55
+  }
+]

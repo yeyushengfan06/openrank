@@ -1,0 +1,80 @@
+[
+  {
+    "name": "dev-web-frameworks-0",
+    "commits": 38,
+    "issues_active": 3,
+    "response_speed": 31
+  },
+  {
+    "name": "dev-web-frameworks-1",
+    "commits": 32,
+    "issues_active": 4,
+    "response_speed": 44
+  },
+  {
+    "name": "dev-web-frameworks-2",
+    "commits": 32,
+    "issues_active": 17,
+    "response_speed": 27
+  },
+  {
+    "name": "dev-web-frameworks-3",
+    "commits": 42,
+    "issues_active": 9,
+    "response_speed": 7
+  },
+  {
+    "name": "dev-web-frameworks-4",
+    "commits": 43,
+    "issues_active": 0,
+    "response_speed": 46
+  },
+  {
+    "name": "dev-web-frameworks-5",
+    "commits": 5,
+    "issues_active": 16,
+    "response_speed": 10
+  },
+  {
+    "name": "dev-web-frameworks-6",
+    "commits": 47,
+    "issues_active": 20,
+    "response_speed": 25
+  },
+  {
+    "name": "dev-web-frameworks-7",
+    "commits": 17,
+    "issues_active": 9,
+    "response_speed": 41
+  },
+  {
+    "name": "dev-web-frameworks-8",
+    "commits": 45,
+    "issues_active": 8,
+    "response_speed": 3
+  },
+  {
+    "name": "dev-web-frameworks-9",
+    "commits": 6,
+    "issues_active": 11,
+    "response_speed": 18
+  },
+  {
+    "name": "dev-web-frameworks-10",
+    "commits": 29,
+    "issues_active": 1,
+    "response_speed": 51
+  },
+  {
+    "name": "dev-web-frameworks-11",
+    "commits": 38,
+    "issues_active": 10,
+    "response_speed": 40
+  },
+  {
+    "name": "dev-web-frameworks-12",
+    "commits": 1,
+    "issues_active": 10,
+    "response_speed": 26
+  }
+]
