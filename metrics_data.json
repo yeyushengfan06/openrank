@@ -1,0 +1,208 @@
+{
+  "openrank": [
+    {
+      "name": "仓库全域 OpenRank",
+      "source": "X-lab",
+      "example": "openrank.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "开发者全域 OpenRank",
+      "source": "X-lab",
+      "example": "openrank.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "仓库社区 OpenRank",
+      "source": "X-lab",
+      "example": "community_openrank.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "开发者社区 OpenRank",
+      "source": "X-lab",
+      "example": "-",
+      "code": "链接",
+      "codepen": "-"
+    }
+  ],
+  "statistics": [
+    {
+      "name": "仓库活跃度",
+      "source": "X-lab",
+      "examples": ["activity.json", "activity_details.json"],
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "开发者活跃度",
+      "source": "X-lab",
+      "examples": ["activity.json", "activity_details.json"],
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "星标数",
+      "source": "X-lab",
+      "example": "stars.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "技术分叉",
+      "source": "CHAOSS",
+      "example": "technical_fork.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "关注度",
+      "source": "X-lab",
+      "example": "attention.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "活跃日期和时间",
+      "source": "CHAOSS",
+      "example": "active_dates_and_times.json",
+      "code": "链接",
+      "codepen": "Demo"
+    }
+  ],
+  "developers": [
+    {
+      "name": "新贡献者",
+      "source": "CHAOSS",
+      "examples": ["new_contributors.json", "new_contributors_detail.json"],
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "贡献者",
+      "source": "CHAOSS",
+      "examples": ["contributors.json", "contributors_detail.json"],
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "不活跃的贡献者",
+      "source": "CHAOSS",
+      "example": "inactive_contributors.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "参与者",
+      "source": "X-lab",
+      "example": "participants.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "贡献者缺席因素",
+      "source": "CHAOSS",
+      "examples": ["bus_factor.json", "bus_factor_detail.json"],
+      "code": "链接",
+      "codepen": "Demo"
+    }
+  ],
+  "issues": [
+    {
+      "name": "新问题",
+      "source": "CHAOSS",
+      "example": "issues_new.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "已关闭的问题",
+      "source": "CHAOSS",
+      "example": "issues_closed.json",
+      "code": "链接",
+      "codepen": "-"
+    },
+    {
+      "name": "问题评论",
+      "source": "X-lab",
+      "example": "issue_comments.json",
+      "code": "链接",
+      "codepen": "-"
+    },
+    {
+      "name": "问题响应时间",
+      "source": "CHAOSS",
+      "example": "issue_response_time.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "问题解决持续时间",
+      "source": "CHAOSS",
+      "example": "issue_resolution_duration.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "问题年龄",
+      "source": "CHAOSS",
+      "example": "issue_age.json",
+      "code": "链接",
+      "codepen": "Demo"
+    }
+  ],
+  "pull_requests": [
+    {
+      "name": "变更请求",
+      "source": "CHAOSS",
+      "example": "change_requests.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "接受的变更请求",
+      "source": "CHAOSS",
+      "example": "change_requests_accepted.json",
+      "code": "链接",
+      "codepen": "-"
+    },
+    {
+      "name": "变更请求审查",
+      "source": "CHAOSS",
+      "example": "change_requests_reviews.json",
+      "code": "链接",
+      "codepen": "-"
+    },
+    {
+      "name": "变更请求响应时间",
+      "source": "CHAOSS",
+      "example": "change_request_response_time.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "变更请求解决持续时间",
+      "source": "CHAOSS",
+      "example": "change_request_resolution_duration.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "变更请求年龄",
+      "source": "CHAOSS",
+      "example": "change_request_age.json",
+      "code": "链接",
+      "codepen": "Demo"
+    },
+    {
+      "name": "代码更改行",
+      "source": "CHAOSS",
+      "examples": ["code_change_lines_add.json", "code_change_lines_remove.json", "code_change_lines_sum.json"],
+      "code": "链接",
+      "codepen": "Demo"
+    }
+  ]
+}
